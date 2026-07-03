@@ -110,14 +110,11 @@ Reinforcement Learning-based optimization project.
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=balasubramaniam575&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balasubramaniam575&layout=compact&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balasubramaniam575&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balasubramaniam575&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 ---
@@ -130,10 +127,10 @@ Reinforcement Learning-based optimization project.
 
 ---
 
-# 🏆 GitHub Trophy
+## 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=balasubramaniam575&theme=algolia&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=balasubramaniam575&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
