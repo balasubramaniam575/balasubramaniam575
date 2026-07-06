@@ -97,12 +97,12 @@ Minimax AI implementation.
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=balasubramaniam575&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=balasubramaniam575&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balasubramaniam575&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=balasubramaniam575&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balasubramaniam575&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balasubramaniam575&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -110,7 +110,7 @@ Minimax AI implementation.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=balasubramaniam575&theme=algolia&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=balasubramaniam575&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -118,15 +118,19 @@ Minimax AI implementation.
 # 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=balasubramaniam575&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balasubramaniam575&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 # 🐍 Contribution Snake
 
-```text
-Enable GitHub Actions and use Platane/snk to generate the snake animation.
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/balasubramaniam575/balasubramaniam575/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ```
 
 ---
